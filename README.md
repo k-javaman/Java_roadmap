@@ -63,11 +63,14 @@ https://www.udemy.com/course/data-batch-processing-with-spring-batch-spring-boot
 <h2>Kotlin</h2>
 <h4>●Kotlin for Java Developers - Svetlana Isakova<h4>
 https://www.coursera.org/learn/kotlin-for-java-developers#instructors
+<h4>●Java to kotlin - Refactoring to Kotlin with Duncan McGregor<h4>
+https://www.youtube.com/playlist?list=PL1ssMPpyqociJNwykAOB9_KEZVW7BW7m2
 <h3>◆Paid course</h3>
 <h4>●Kotlin for Java Developers - Tim Buchalka - (16.5h) <h4>
 https://www.udemy.com/course/kotlin-for-java-developers/
 <h4>●Hyperskill - Jetbrains (the maker of IntelliJ)<h4>
 https://hi.hyperskill.org/
+
   
 <h2>Computer Science </h2>
 <h4>●Algorithm & Data Structure - Kevin Wayne (Princeton University) <h4>
