@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=XCqVCq249Iw&ab_channel=Amigoscode
 https://www.youtube.com/watch?v=59RC8gVPlvk&t=1031s&ab_channel=IntelliJIDEAbyJetBrains
 <h4>●IntelliJ IDEA. Debugger Advanced <h4>
 https://www.youtube.com/watch?v=40Og3hTV--k&t=184s&ab_channel=IntelliJIDEAbyJetBrains
-<h4>●IntelliJ IDEA Tutorial - kite ai coding assistant - Amigoscode <h4>
+<h4>●IntelliJ IDEA. Debugger Professional <h4>
 https://www.youtube.com/watch?v=JPR3w3Qtwzw&ab_channel=IntelliJIDEAbyJetBrains
 <h4>●Top 15 IntelliJ IDEA shortcuts <h4>
 https://www.youtube.com/watch?v=QYO5_riePOQ&ab_channel=IntelliJIDEAbyJetBrains
