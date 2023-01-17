@@ -100,3 +100,5 @@ https://www.youtube.com/watch?v=40Og3hTV--k&t=184s&ab_channel=IntelliJIDEAbyJetB
 https://www.youtube.com/watch?v=JPR3w3Qtwzw&ab_channel=IntelliJIDEAbyJetBrains
 <h4>●Top 15 IntelliJ IDEA shortcuts <h4>
 https://www.youtube.com/watch?v=QYO5_riePOQ&ab_channel=IntelliJIDEAbyJetBrains
+<h4>●42 IntelliJ IDEA Tips and Tricks</h4>
+https://www.youtube.com/watch?v=eq3KiAH4IBI&ab_channel=IntelliJIDEAbyJetBrains
