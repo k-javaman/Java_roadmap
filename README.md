@@ -86,3 +86,17 @@ https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
 https://www.udemy.com/course/ccna-complete/
 <h4>●Computer Architecture - UC Berkeley CS 61C <h4>
 https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk
+
+<h2>Intellij </h2>
+<h4>●IntelliJ IDEA | Full Course | 2020 - Amigoscode <h4>
+https://www.youtube.com/watch?v=yefmcX57Eyg&ab_channel=Amigoscode
+<h4>●IntelliJ IDEA Tutorial - kite ai coding assistant - Amigoscode <h4>
+https://www.youtube.com/watch?v=XCqVCq249Iw&ab_channel=Amigoscode
+<h4>●IntelliJ IDEA. Debugger Essentials <h4>
+https://www.youtube.com/watch?v=59RC8gVPlvk&t=1031s&ab_channel=IntelliJIDEAbyJetBrains
+<h4>●IntelliJ IDEA. Debugger Advanced <h4>
+https://www.youtube.com/watch?v=40Og3hTV--k&t=184s&ab_channel=IntelliJIDEAbyJetBrains
+<h4>●IntelliJ IDEA Tutorial - kite ai coding assistant - Amigoscode <h4>
+https://www.youtube.com/watch?v=JPR3w3Qtwzw&ab_channel=IntelliJIDEAbyJetBrains
+<h4>●Top 15 IntelliJ IDEA shortcuts <h4>
+https://www.youtube.com/watch?v=QYO5_riePOQ&ab_channel=IntelliJIDEAbyJetBrains
