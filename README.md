@@ -59,6 +59,11 @@ https://www.youtube.com/watch?v=hr2XTbKSdAQ&ab_channel=JavaTechie
 <h4>●Batch Processing with Spring Batch & Spring Boot - Infybuzz Learning - (8h) <h4>
 https://www.udemy.com/course/data-batch-processing-with-spring-batch-spring-boot-spring-framework/
 
+<h2>Spring Project</h2>
+<h3>◆Paid course</h3>
+<h4>●Spring Boot 3 Thymeleaf REAL-TIME Web Application - Blog App - Java Guides - (12h) <h4>
+https://www.udemy.com/course/spring-boot-thymeleaf-course/#instructor-1
+
 
 <h2>Kotlin</h2>
 <h4>●Kotlin for Java Developers - Svetlana Isakova<h4>
@@ -70,6 +75,21 @@ https://www.youtube.com/playlist?list=PL1ssMPpyqociJNwykAOB9_KEZVW7BW7m2
 https://www.udemy.com/course/kotlin-for-java-developers/
 <h4>●Hyperskill - Jetbrains (the maker of IntelliJ)<h4>
 https://hi.hyperskill.org/
+
+<h2>AWS</h2>
+<h3>◆Paid course</h3>
+<h4>●Ultimate AWS Certified Developer Associate 2022 - Stephane Maarek - (31h) <h4>
+https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/
+
+<h2>MySql</h2>
+<h3>◆Paid course</h3>
+<h4>●The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert - Colt Steele - (20h - except legacy parts) <h4>
+https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
+
+<h2>Git & Github</h2>
+<h3>◆Paid course</h3>
+<h4>●The Git & Github Bootcamp - Colt Steele - (16.5h) <h4>
+https://www.udemy.com/course/git-and-github-bootcamp/
 
   
 <h2>Computer Science </h2>
