@@ -19,6 +19,15 @@ https://www.udemy.com/course/java-the-complete-java-developer-course/
 <h4>●Learn JAVA Programming - Beginner to Master - Abdul Bari - (61.5h)</h4>
 https://www.udemy.com/course/java-se-programming/#instructor-1
 
+<h2>Advanced Java</h2>
+<h3>◆Paid course</h3>
+<h4>●Advanced Java Topics: Java Reflection - Master Class - Michael Pogrebinsky - (4.5h)<h4>
+https://www.udemy.com/course/java-reflection-master-class/
+<h4>●Java Multithreading, Concurrency & Performance Optimization - Michael Pogrebinsky - (4h)</h4>
+https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/
+<h4>●Distributed Systems & Cloud Computing with Java - Michael Pogrebinsky - (7.5h) </h4>
+https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/
+
 <h2>Spring Framework</h2>
 <h4>●Spring Framework - Laur Splica (The author of Spring Start Here, Spring Security IN ACTION) <h4>
 https://www.youtube.com/watch?v=m-L-r862J-E&list=PLEocw3gLFc8Vli5p6rWHnNcYxFRbaIfIJ&ab_channel=LaurSpilca
@@ -91,6 +100,12 @@ https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to
 <h4>●The Git & Github Bootcamp - Colt Steele - (16.5h) <h4>
 https://www.udemy.com/course/git-and-github-bootcamp/
 
+<h2>Software architecture</h2>
+<h3>◆Paid course</h3>
+<h4>●Software Architecture & Design of Modern Large Scale Systems - Michael Pogrebinsky - (7h) <h4>
+https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/
+<h4>●https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/ - Michael Pogrebinsky - (4.5h) <h4>
+https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/
   
 <h2>Computer Science </h2>
 <h4>●Algorithm & Data Structure - Kevin Wayne (Princeton University) <h4>
