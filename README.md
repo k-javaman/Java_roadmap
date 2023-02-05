@@ -100,7 +100,7 @@ https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to
 <h4>●The Git & Github Bootcamp - Colt Steele - (16.5h) <h4>
 https://www.udemy.com/course/git-and-github-bootcamp/
 
-<h2>Software architecture</h2>
+<h2>Software Architecture</h2>
 <h3>◆Paid course</h3>
 <h4>●Software Architecture & Design of Modern Large Scale Systems - Michael Pogrebinsky - (7h) <h4>
 https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/
