@@ -104,7 +104,7 @@ https://www.udemy.com/course/git-and-github-bootcamp/
 <h3>◆Paid course</h3>
 <h4>●Software Architecture & Design of Modern Large Scale Systems - Michael Pogrebinsky - (7h) <h4>
 https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/
-<h4>●https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/ - Michael Pogrebinsky - (4.5h) <h4>
+<h4>●The Complete Cloud Computing Software Architecture Patterns - Michael Pogrebinsky - (4.5h) <h4>
 https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/
   
 <h2>Computer Science </h2>
