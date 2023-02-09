@@ -115,9 +115,9 @@ https://www.coursera.org/learn/algorithms-part2
 https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLMcZASLnrVs5qyBC-dc4bFRtC8ROPYmS0
 <h4>●Database - UC Berkeley CS 186 <h4>
 https://www.youtube.com/watch?v=j-iq40QBJy8&list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge
-<h4>●Network - CCNA study - Jeremy's IT Lab <h4>
+<h4>●Network - CCNA study - Jeremy's IT Lab (53.5h) <h4>
 https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
-<h4>●Network -[PAID] CCNA study - Neil Anderson <h4>
+<h4>●Network -[PAID] CCNA study - Neil Anderson (39h) <h4>
 https://www.udemy.com/course/ccna-complete/
 <h4>●Computer Architecture - UC Berkeley CS 61C <h4>
 https://www.youtube.com/watch?v=9y_sUqHeyy8&list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk
