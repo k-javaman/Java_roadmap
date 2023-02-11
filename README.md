@@ -89,6 +89,8 @@ https://hi.hyperskill.org/
 <h3>◆Paid course</h3>
 <h4>●Ultimate AWS Certified Developer Associate 2022 - Stephane Maarek - (31h) <h4>
 https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/
+<h4>●AWS Certified Developer - Associate - Adrian Cantrill - (62h) <h4>
+https://learn.cantrill.io/p/aws-certified-developer-associate
 
 <h2>MySql</h2>
 <h3>◆Paid course</h3>
