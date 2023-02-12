@@ -113,6 +113,9 @@ https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-
 <h4>●Algorithm & Data Structure - Kevin Wayne (Princeton University) <h4>
 https://www.coursera.org/learn/algorithms-part1
 https://www.coursera.org/learn/algorithms-part2
+<h4>●Introductory lecture of Operating System and Computer Archictecture - Build a Modern Computer from First Principles: From Nand to Tetris<h4>
+part1 : https://www.coursera.org/learn/build-a-computer
+part2 : https://www.coursera.org/learn/nand2tetris2  
 <h4>●Operating Systems - UC Berkeley CS 162<h4>
 https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLMcZASLnrVs5qyBC-dc4bFRtC8ROPYmS0
 <h4>●Database - UC Berkeley CS 186 <h4>
@@ -146,6 +149,8 @@ https://www.youtube.com/watch?v=eq3KiAH4IBI&ab_channel=IntelliJIDEAbyJetBrains
 <h2>Computer Science </h2>
 <h4>●Algorithm & Data Structure - Algorithms (4th Edition) - Kevin Wayne  <h4>
 https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
+<h4>●Introductory Book of Operating System and Computer Archictecture - The Elements of Computing Systems, second edition: Building a Modern Computer from First Principles (NandtoTetris)<h4>
+[  The Elements of Computing Systems, second edition: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-second-Principles/dp/0262539802/ref=sr_1_1?crid=31C63QGV2M7VC&keywords=The+Elements+of+Computing+Systems&qid=1676213713&s=books&sprefix=the+elements+of+computing+systems+%2Cstripbooks-intl-ship%2C289&sr=1-1)
 <h4>●Computer Architecture - Computer Systems: A Programmer's Perspective, 3 Edition <h4>
 https://www.amazon.com/Computer-Systems-Programmers-Perspective-3/dp/9332573905/ref=sr_1_1?crid=2JOSF6UCHLJLP&keywords=Computer+Systems%3A+A+Programmer%27s+Perspective&qid=1676212426&s=books&sprefix=computer+systems+a+programmer%27s+perspective%2Cstripbooks-intl-ship%2C261&sr=1-1
 <h4>●Operating System - Operating Systems: Three Easy Pieces<h4>
