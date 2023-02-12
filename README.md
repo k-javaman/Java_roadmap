@@ -1,4 +1,4 @@
-# Java_Backend_roadmap
+# Java_Backend_resources
 <h1>Lectures</h1>
 <h2>Java</h2>
 <h4>●MOOC Object Oriented Programming with Java from the University of Helsinki<h4>
@@ -141,3 +141,24 @@ https://www.youtube.com/watch?v=JPR3w3Qtwzw&ab_channel=IntelliJIDEAbyJetBrains
 https://www.youtube.com/watch?v=QYO5_riePOQ&ab_channel=IntelliJIDEAbyJetBrains
 <h4>●42 IntelliJ IDEA Tips and Tricks</h4>
 https://www.youtube.com/watch?v=eq3KiAH4IBI&ab_channel=IntelliJIDEAbyJetBrains
+
+<h1>Books</h1>
+<h2>Computer Science </h2>
+<h4>●Algorithm & Data Structure - Algorithms (4th Edition) - Kevin Wayne  <h4>
+https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
+<h4>●Computer Architecture - Computer Systems: A Programmer's Perspective, 3 Edition <h4>
+https://www.amazon.com/Computer-Systems-Programmers-Perspective-3/dp/9332573905/ref=sr_1_1?crid=2JOSF6UCHLJLP&keywords=Computer+Systems%3A+A+Programmer%27s+Perspective&qid=1676212426&s=books&sprefix=computer+systems+a+programmer%27s+perspective%2Cstripbooks-intl-ship%2C261&sr=1-1
+<h4>●Operating System - Operating Systems: Three Easy Pieces<h4>
+https://www.amazon.com/Operating-Systems-Three-Easy-Pieces/dp/198508659X/ref=pd_bxgy_vft_none_img_sccl_2/131-6327775-9708913?pd_rd_w=8mioP&content-id=amzn1.sym.7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_p=7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_r=394X4X5HVGSEHE5WM0BP&pd_rd_wg=aU1s0&pd_rd_r=d9eb5e17-82e3-4641-a6cc-a8c29274e207&pd_rd_i=198508659X&psc=1
+<h4>●Database - Database Systems: Design, Implementation, & Management <h4>
+https://www.amazon.com/Database-Systems-Design-Implementation-Management/dp/1337627909/ref=sr_1_3?crid=3S0RPE1RZY6YN&keywords=database&qid=1676212563&s=books&sprefix=database%2Cstripbooks-intl-ship%2C341&sr=1-3
+<h4>●Network - Computer Networking: A Top-Down Approach <h4>
+https://www.amazon.com/Computer-Networking-Top-Down-James-Kurose/dp/9356061319/ref=sr_1_1?crid=2689V4XY83A4P&keywords=Computer+Networking%3A+A+Top-Down+Approach&qid=1676212643&s=books&sprefix=computer+networking+a+top-down+approach%2Cstripbooks-intl-ship%2C242&sr=1-1
+<h4>●Compiler -Crafting Interpreters <h4>
+https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930/ref=sr_1_1?crid=1O2AY3V033XGT&keywords=crafting+compilers&qid=1676212691&s=books&sprefix=crafting+compiler%2Cstripbooks-intl-ship%2C251&sr=1-1
+<h4>●Distributed System - Designing Data-Intensive Applications by Martin Kleppmann <h4>
+https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?crid=25EOSPIAT87I0&keywords=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&qid=1676212760&s=books&sprefix=designing+data-intensive+applications+by+martin+kleppmann%2Cstripbooks-intl-ship%2C247&sr=1-1
+<h4>●Computer Security - Security Engineering: A Guide to Building Dependable Distributed Systems <h4>
+https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/1119642787/ref=sr_1_1?crid=3NL1AEYOBYOT8&keywords=Security+Engineering&qid=1676212933&s=books&sprefix=security+engineering+%2Cstripbooks-intl-ship%2C261&sr=1-1
+<h4>●Computer Security - CompTIA Security+ Get Certified Get Ahead: SY0-601 Study Guide <h4>
+https://www.amazon.com/CompTIA-Security-Get-Certified-Ahead/dp/B096D1LGSK/ref=zg_bs_468204_sccl_1/131-6327775-9708913?psc=1
