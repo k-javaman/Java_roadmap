@@ -146,6 +146,48 @@ https://www.youtube.com/watch?v=QYO5_riePOQ&ab_channel=IntelliJIDEAbyJetBrains
 https://www.youtube.com/watch?v=eq3KiAH4IBI&ab_channel=IntelliJIDEAbyJetBrains
 
 <h1>Books</h1>
+<h2>Java</h2>
+<h4>●Head First Java: A Brain-Friendly Guide<h4>
+<p>https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide/dp/1491910771/ref=sr_1_1?crid=2PCELA3JSDQG7&keywords=head+first+java%2C+3rd+edition&qid=1676809843&s=books&sprefix=head+first+java%2Cstripbooks-intl-ship%2C258&sr=1-1/</p>
+<h4>●Modern Java in Action: Lambdas, streams, functional and reactive programming<h4>
+<p>https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563/ref=sr_1_1?crid=12B21X0VW7A9P&keywords=modern+java+in+action&qid=1676809879&s=books&sprefix=modern+java+in+acti%2Cstripbooks-intl-ship%2C249&sr=1-1</p>
+<h4>●Effective Java<h4>
+<p>https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/ref=sr_1_1?crid=5NK0PBABJ32T&keywords=effective+java&qid=1676809908&s=books&sprefix=effective+ja%2Cstripbooks-intl-ship%2C253&sr=1-1</p>
+<h4>●The Well-Grounded Java Developer, Second Edition<h4>
+<p>https://www.amazon.com/Well-Grounded-Java-Developer-Second/dp/1617298875/ref=sr_1_1?crid=2O4Z98QIUAUMO&keywords=The+Well-Grounded+Java+Developer%2C+Second+Edition&qid=1676809939&s=books&sprefix=the+well-grounded+java+developer%2C+second+edition%2Cstripbooks-intl-ship%2C249&sr=1-1</p>
+
+<h2>Spring & Spring boot</h2>
+<h4>●spring starts here<h4>
+<p>https://www.amazon.com/Spring-Start-Here-Learn-learn/dp/1617298697/ref=sr_1_1?crid=1HOHSI0INUQ3X&keywords=spring+starts+here&qid=1676809985&s=books&sprefix=spring+start+here%2Cstripbooks-intl-ship%2C248&sr=1-1</p>
+<h4>●spring boot in practice<h4>
+<p>https://www.amazon.com/Spring-Boot-Practice-Somnath-Musib/dp/1617298816/ref=sr_1_1?crid=19NM4MZED7W9X&keywords=spring+boot+in+practice&qid=1676810010&s=books&sprefix=spring+boot+in+practice%2Cstripbooks-intl-ship%2C246&sr=1-1</p>
+
+
+<h2>Java Persistence (JPA) </h2>
+<h4>●Java Persistence with Spring Data and Hibernate<h4>
+<p>https://www.amazon.com/Java-Persistence-Spring-Data-Hibernate-ebook/dp/B0BT2XXZN4/ref=sr_1_1?crid=ZXTDXG4T741R&keywords=Java+Persistence+with+Spring+Data+and+Hibernate&qid=1676810100&s=books&sprefix=java+persistence+with+spring+data+and+hibernate%2Cstripbooks-intl-ship%2C243&sr=1-1</p>
+
+<h2>Spring Security </h2>
+<h4>●spring security in action<h4>
+<p>https://www.manning.com/books/spring-security-in-action-second-edition</p>
+
+<h2>Spring Cloud</h2>
+<h4>●Cloud Native Spring in Action: With Spring Boot and Kubernetes<h4>
+<p>https://www.amazon.com/Native-Spring-Action-Thomas-Vitale/dp/1617298425/ref=sr_1_1?crid=7AOZGT6WEUHK&keywords=cloud+native+spring+in+action&qid=1676810218&s=books&sprefix=spring+cloud+%2Cstripbooks-intl-ship%2C254&sr=1-1</p>
+<h4>●Spring Microservices in Action, Second Edition<h4>
+<p>https://www.amazon.com/Spring-Microservices-Action-Second-Carnell/dp/1617296953/ref=sr_1_1?crid=1EVD2LNYCIEY2&keywords=Spring+Microservices+in+Action%2C+Second+Edition&qid=1676810243&s=books&sprefix=spring+microservices+in+action%2C+second+edition%2Cstripbooks-intl-ship%2C248&sr=1-1</p>
+
+<h2>Kotlin</h2>
+<h4>●Java to Kotlin: A Refactoring Guidebook<h4>
+<p>https://www.amazon.com/Java-Kotlin-Refactoring-Duncan-McGregor/dp/1492082279/ref=sr_1_1?crid=2UHXAPV4S9SYF&keywords=java+to+kotlin&qid=1676810281&s=books&sprefix=java+to+kotl%2Cstripbooks-intl-ship%2C283&sr=1-1</p>
+<h4>●Kotlin in Action, Second Edition<h4>
+<p>https://www.manning.com/books/kotlin-in-action-second-edition</p>
+<h4>●Effective Kotlin: Best practices<h4>
+<p>https://www.amazon.com/Effective-Kotlin-practices-Marcin-Moskala/dp/8395452837/ref=sr_1_1?crid=3FLZZIWQH1VNN&keywords=effective+kotlin&qid=1676810395&s=books&sprefix=effective+kotl%2Cstripbooks-intl-ship%2C247&sr=1-1</p>
+<h4>●Kotlin Coroutines: Deep Dive<h4>
+<p>https://www.amazon.com/Kotlin-Coroutines-Deep-Marcin-Moskala/dp/8396395837/ref=sr_1_3?crid=3FLZZIWQH1VNN&keywords=effective+kotlin&qid=1676810395&s=books&sprefix=effective+kotl%2Cstripbooks-intl-ship%2C247&sr=1-3</p>
+
+
 <h2>Computer Science </h2>
 <h4>●Algorithm & Data Structure - Algorithms (4th Edition) - Kevin Wayne  <h4>
 https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
